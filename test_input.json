@@ -1,30 +1,16 @@
-[
-	{
-		color: "red",
-		value: "#f00"
-	},
-	{
-		color: "green",
-		value: "#0f0"
-	},
-	{
-		color: "blue",
-		value: "#00f"
-	},
-	{
-		color: "cyan",
-		value: "#0ff"
-	},
-	{
-		color: "magenta",
-		value: "#f0f"
-	},
-	{
-		color: "yellow",
-		value: "#ff0"
-	},
-	{
-		color: "black",
-		value: "#000"
-	}
-]
+{
+  "markers": [
+    {
+      "name": "Rixos The Palm Dubai",
+      "position": [25.1212, 55.1535]
+    },
+    {
+      "name": "Shangri-La Hotel",
+      "location": [25.2084, 55.2719]
+    },
+    {
+      "name": "Grand Hyatt",
+      "location": [25.2285, 55.3273]
+    }
+  ]
+}
